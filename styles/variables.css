@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-/*
-  Переменные для вашего проекта
-  и их переопределение под различные устройства
-*/
-=======
 :root {
   --bg-color: #000028;
   --color_header-title: #DB00FF;
@@ -32,4 +26,3 @@
   --font-line-heigth: 23.4px;
   --bg-img: url('../images/cover-image-dark.png');
 }
->>>>>>> 15347ac (Initial commit)
